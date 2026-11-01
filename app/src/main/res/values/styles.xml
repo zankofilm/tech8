@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/msy_blue</item>
+        <item name="colorPrimaryDark">@color/msy_blue_dark</item>
+        <item name="colorAccent">@color/msy_cyan</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/msy_blue_dark</item>
+        <item name="android:navigationBarColor">@color/msy_white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">@color/msy_surface</item>
+    </style>
+</resources>
